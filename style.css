@@ -19,7 +19,7 @@
 }
 
 .block {
-    width: 28px;
+    width: 20px;
     background-color: #6b5b95;
     position: absolute;
     bottom: 0px;
@@ -32,4 +32,14 @@
     margin-top: -20px;
     width: 100%;
     text-align: center;
+}
+
+.butto {
+    display: flex;
+    justify-content: center;
+    align-item: center;
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 600px;
 }
